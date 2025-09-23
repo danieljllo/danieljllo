@@ -2,6 +2,7 @@
 - 👀 I’m interested in technology, homebrewing, education and personal finances.
 - 🇺🇾 I live in Uruguay. Before I was in Texas and Colombia.
 - 👨🏽‍💻 I’m working as a software developer consultant for [Juniper Strategies](https://www.juniperstrategies.com) and as a STEAM teacher for [UTU](https://www.utu.edu.uy).
+  - Juniper Strategies github account: https://github.com/danieljuniperstrategies
 - 📫 Reach out to me via LinkedIn profile: https://www.linkedin.com/in/danieljaramillo
 
 <!---
